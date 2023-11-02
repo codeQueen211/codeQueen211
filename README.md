@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**codeQueen211/codeQueen211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 <img src="https://github.com/codeQueen211/codeQueen211.github.io/blob/main/githubPhoto(1).jpg" width=500px > 
  <hr></hr>

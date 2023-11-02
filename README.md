@@ -1,6 +1,7 @@
-<div style="display: flex; justify-content: center; align-items: center;">
+<p align="center">
   <img src="https://github.com/codeQueen211/codeQueen211/blob/main/githubPhoto(1).jpg" width="300px" height="100px" alt="Your Image">
-</div>
+</p>
+
 
  <hr></hr>
 <p align="center">

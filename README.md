@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/codeQueen211/codeQueen211/blob/main/githubPhoto(1).jpg" width="300px" height="100px" alt="Your Image">
+  <img src="https://github.com/codeQueen211/codeQueen211/blob/main/githubPhoto(1).jpg" width="300px" height="300px" alt="Your Image">
 </p>
 
 

@@ -1,4 +1,4 @@
-<img src="https://github.com/codeQueen211/codeQueen211/blob/main/githubPhoto(1).jpg" width=300px hight=100px>
+<img src="https://github.com/codeQueen211/codeQueen211/blob/main/githubPhoto(1).jpg" width=500px hight=100px>
  <hr></hr>
 <p align="center">
  Hi, I'm Sara! 👋 <br>

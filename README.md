@@ -1,4 +1,4 @@
-![photo](./githubPhoto(1).jpg)
+<img src="https://github.com/codeQueen211/codeQueen211/blob/main/githubPhoto(1).jpg" width=500px>
  <hr></hr>
 <p align="center">
  Hi, I'm Sara! 👋 <br>

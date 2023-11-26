@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sara Omar</h1>
-<img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" alt="a gif" hight=100px>
+<img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" alt="a gif" hight=50px>
 <h3 align="center">A passionate frontend developer from Israel</h3>
 
 - 🔭 I’m currently working on **My studying app**

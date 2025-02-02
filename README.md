@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/codeQueen211?tab=repositories](https://github.com/codeQueen211?tab=repositories)
 
-- 💬 Ask me about **react,html,js and css**
+- 💬 Ask me about **react,html,js,css,python and c++**
 
 - 📫 How to reach me **osara7846@gmail.com**
 
